@@ -125,6 +125,7 @@ For each robot path has been utilized the mode that results in the minimum numbe
 
 ### For the Communication Utility
 Just run the command in CA_DARP folder by setting the iteration  for inner and outer loop.
+
 (Default--> inner:250 & outer: 1500)
 ```
 python3 main.py
